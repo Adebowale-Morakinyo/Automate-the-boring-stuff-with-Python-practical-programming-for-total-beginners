@@ -2,10 +2,11 @@
 
 ## Installation
 
-'''
+```
 pip install Flask
 pip install Flask-Restful
-'''
+python app.py
+```
 
 ## Descripton
 
