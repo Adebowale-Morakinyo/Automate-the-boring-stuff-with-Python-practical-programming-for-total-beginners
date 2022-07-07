@@ -2,7 +2,7 @@
 
 ## Descripton
 
-My solution to Practice Projects for this elusive, consumer friendly and amazing python begeinner handbook.
+My solution to Practice Projects for this elusive, consumer friendly and amazing python beginner handbook.
 
 ## Implementation
 
