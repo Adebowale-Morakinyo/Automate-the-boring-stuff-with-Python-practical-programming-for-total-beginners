@@ -1,15 +1,16 @@
-# My First REST API
-
-## Installation
-
-```
-pip install Flask
-pip install Flask-Restful
-python app.py
-```
+# Automate the boring stuff with Python practical programming for total beginners Practice Projects solutions
 
 ## Descripton
 
+My solution to Practice Projects for this elusive, consumer friendly and amazing python begeinner handbook.
+
 ## Implementation
 
-This project is implemented using Flask, and is a REST API for a store. Also has a user Api feature for authorization.
+Get the book, read through, if you are stuck on the projects, check this friendly repo!
+
+
+## Running the programs
+```
+python 'projectFileName'.py
+
+```
